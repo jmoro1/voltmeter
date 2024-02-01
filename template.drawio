@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T03:10:41.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="9RvayeZDqKjl8mXJxr4v" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T16:16:49.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="EZYNWfXKKAN-GXlerxCL" version="23.0.2" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
-    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="398" dy="209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -115,6 +115,23 @@
               <mxPoint x="847" y="764" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CMGqhZBOSsRHSaUzrzAc-2" value="Contador BCD&lt;br&gt;4 bits" style="whiteSpace=wrap;html=1;shadow=0;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.13,0,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.63,0,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[0.87,0,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="1360" y="360" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CMGqhZBOSsRHSaUzrzAc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="CMGqhZBOSsRHSaUzrzAc-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="594" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMGqhZBOSsRHSaUzrzAc-4" value="Comparador" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;direction=west;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="489" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMGqhZBOSsRHSaUzrzAc-6" value="ena" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMGqhZBOSsRHSaUzrzAc-8" value="rst" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="350" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
